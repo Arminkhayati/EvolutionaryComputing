@@ -19,3 +19,6 @@ In this project I asked to design an Evolution Strategy (ES) based approach to r
 Project Idea is taken from this paper: </br>
 P. Wu, L. Gao, D. Zou, and S. Li, “An improved particle swarm optimization algorithm for reliability problems,” ISA Trans., vol. 50, no. 1, pp. 71–81, 2011.
 </br>
+</br>
+HW4:</br>
+Implementing a paper inside its folder.</br>
